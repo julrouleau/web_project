@@ -17,7 +17,7 @@ public class HelloServlet extends HttpServlet {
 		
 		
 		
-		response.getWriter().println("Hello new servlet : " + new Date());
+		response.getWriter().println("Hello new servlet from github : " + new Date());
 	}
 
 	/**
