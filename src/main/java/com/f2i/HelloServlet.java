@@ -17,7 +17,7 @@ public class HelloServlet extends HttpServlet {
 		
 		
 		
-		response.getWriter().println("Hello new servlet from github : " + new Date());
+		response.getWriter().println("Hello new servlet from github commit dans github : " + new Date());
 	}
 
 	/**
